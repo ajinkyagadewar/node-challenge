@@ -1,0 +1,27 @@
+{
+  "name": "challenge-one",
+  "version": "1.0.0",
+  "description": "Store App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tesera/challenge-one.git"
+  },
+  "author": "Ajeenkcya Gadewar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tesera/challenge-one/issues"
+  },
+  "bin": {
+    "store": "./app.js"
+  },
+  "homepage": "https://github.com/tesera/challenge-one#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^10.8.0",
+    "yargs": "^14.2.0"
+  }
+}
